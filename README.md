@@ -9,3 +9,12 @@ Funcionalidades:
 Gráfico inicial Entidade-Relacionamento
 
 <img src="/diag_fcoinvest.jpg">
+
+---------------------------------------------------
+
+Prints das respostas via Postman
+
+<img src="/postman-print-1.jpg">
+
+
+<img src="/postman-print-2.jpg">
